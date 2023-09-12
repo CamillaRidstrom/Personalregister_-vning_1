@@ -1,4 +1,24 @@
-﻿using PersonalRegister; 
+﻿/*
+
+Uppgift 1 
+Klasser: Personal & Lista (..känns kanske inte helt logiskt med Lista det kanske mer är en metod)
+
+Uppgift 2 
+Attribut för klassen Personal: förNamn, efterNamn, Lön.
+Attribut för klassen Listan: antalPersoner.
+
+Metoder: Write. ReadLine. Read.  
+
+Uppgift 3
+Programmet skulle inte skapa en nöjd kund 
+eftersom den endast tar in namn och lön 
+och ger tillbaka antalet anställda. 
+Men det går endast att skriva in en person.
+Så fail på det, men ni kan iaf se hur jag skrivit. 
+Tyvärr inte hunnit implementera breakpoints. 
+
+*/
+using PersonalRegister;
 using Listan;
 using System.Xml;
 
